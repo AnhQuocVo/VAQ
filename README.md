@@ -1,33 +1,37 @@
 # 👋 Hi there, I'm [Your Name]!
 
-Welcome to my GitHub profile! I'm excited to have you here. Here's a little bit about me:
+Welcome to my GitHub profile! I'm a passionate **Data Analyst** who turns raw data into actionable insights. I love uncovering stories behind the numbers and making data-driven decisions to solve real-world problems.
 
-## 🧠 About Me
-- 🔭 I’m currently working on: [Your current project or learning goal]
-- 🌱 I’m currently learning: [Languages, frameworks, or skills you're learning]
-- 💬 Ask me about: [Topics you're comfortable talking about or helping with]
-- 📫 How to reach me: [Your email or social media handles]
-- ⚡ Fun fact: [Something interesting or quirky about you!]
+## 🔍 About Me
 
-## 💼 What I Do
-- 💻 I'm a [Your Role/Profession] with experience in [Key skills or industries].
-- 🎓 [Mention your academic background or certifications if you'd like.]
-- 📈 Passionate about building things that make a difference and continuously learning new technologies.
+- 🎓 Background in [Your Degree or Field]
+- 💼 Currently working as a Data Analyst at [Company Name] / Freelancer / Open to opportunities
+- 🧠 Strong skills in statistics, data visualization, and exploratory data analysis
+- 📊 I enjoy working with Python, SQL, R, Excel, and BI tools like Tableau and Power BI
+- 🌱 Currently learning advanced Machine Learning and Big Data tools
+- ✍️ I also write about data and analytics on [your blog/Medium/LinkedIn if applicable]
 
-## 🛠️ Tech Stack
-Here are some tools and technologies I work with:
+## 🧰 Tools & Technologies
 
-- Languages: `Python`, `JavaScript`, `C++`, `R`, etc.
-- Web: `React`, `Node.js`, `HTML/CSS`, `TailwindCSS`
-- Data: `Pandas`, `NumPy`, `SQL`, `Tableau`
-- Tools: `Git`, `VS Code`, `Linux`, `Figma`
+- **Languages**: Python, SQL, R  
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Databases**: MySQL, PostgreSQL, SQLite  
+- **BI Tools**: Power BI, Tableau, Google Data Studio  
+- **Others**: Excel, Jupyter Notebooks, Git, APIs
 
 ## 📂 Projects
-Check out some of my cool projects on my repositories! I'm always open to feedback and collaboration.
 
-## 🌍 Let's Connect
-- [LinkedIn](www.linkedin.com/in/anh-quoc-vo-b62b1b241)
-- [Twitter](https://twitter.com/yourhandle)
-- [Portfolio Website](https://yourwebsite.com)
+Here are some of my recent projects:
+- 📈 [Project Name] – Brief description ([Link])
+- 📊 [Dashboard Name] – Interactive dashboard built with [Tool] ([Link])
+- 🔍 [Analysis Name] – A deep-dive into [Topic] ([Link])
 
-Thanks for visiting my profile! 😊
+Check out more in the [Repositories](https://github.com/yourusername?tab=repositories) tab!
+
+## 📬 Let's Connect
+
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- Portfolio: [Your Website or Portfolio](https://yourportfolio.com)
+- Email: [your.email@example.com]
+
+Thanks for stopping by! 😊
