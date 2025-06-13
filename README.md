@@ -30,8 +30,6 @@ Check out more in the [Repositories](https://github.com/yourusername?tab=reposit
 
 ## 📬 Let's Connect
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- Portfolio: [Your Website or Portfolio](https://yourportfolio.com)
-- Email: [your.email@example.com]
+![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
 
 Thanks for stopping by! 😊
