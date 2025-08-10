@@ -26,7 +26,7 @@ Here are some of my recent projects:
 - 📊 [Dashboard Name] – Interactive dashboard built with [Tool] ([Link])
 - 🔍 [Analysis Name] – A deep-dive into [Topic] ([Link])
 
-Check out more in the [Repositories](https://github.com/yourusername?tab=repositories) tab!
+Check out more in the [Repositories](https://github.com/AnhQuocVo) tab!
 
 ## 📬 Let's Connect
 
