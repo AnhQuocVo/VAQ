@@ -1,16 +1,14 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm [AnhQuoc Vo]!
 
 Welcome to my GitHub profile! I'm a passionate **Data Analyst** who turns raw data into actionable insights. I love uncovering stories behind the numbers and making data-driven decisions to solve real-world problems.
 
 ## 🔍 About Me
 
-- 🎓 Background in [Your Degree or Field]
-- 💼 Currently working as a Data Analyst at [Company Name] / Freelancer / Open to opportunities
+- 🎓 Background in [International Economics]
+- 💼 Currently Open to opportunities
 - 🧠 Strong skills in statistics, data visualization, and exploratory data analysis
 - 📊 I enjoy working with Python, SQL, R, Excel, and BI tools like Tableau and Power BI
 - 🌱 Currently learning advanced Machine Learning and Big Data tools
-- ✍️ I also write about data and analytics on [your blog/Medium/LinkedIn if applicable]
-
 ## 🧰 Tools & Technologies
 
 - **Languages**: Python, SQL, R  
@@ -30,6 +28,6 @@ Check out more in the [Repositories](https://github.com/AnhQuocVo) tab!
 
 ## 📬 Let's Connect
 
-![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anh-quoc-vo-b62b1b241/)
 
 Thanks for stopping by! 😊
