@@ -20,6 +20,12 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** who turns raw da
 ## 📂 Projects
 
 Here are some of my recent projects:
+- Econometrics & Quantitative Analysis – A research project using data processing and analysis to explore the impact of digital transformation, Intellectual Capital & AI Readiness. Applied GMM, Fixed/Random Effects, PCA, and Machine Learning on panel data to evaluate the economic impact of innovation. ([In-Progress])
+
+- Sales Analysis Dashboard – An interactive dashboard built with Power BI to visualize KPIs and identify sales trends for a small business. ([Link])
+
+- "The Role of Digital Transformation..." – A research project using data processing and analysis to explore the impact of digital transformation. ([Link])
+
 - 📈 [Project Name] – Brief description ([Link])
 - 📊 [Dashboard Name] – Interactive dashboard built with [Tool] ([Link])
 - 🔍 [Analysis Name] – A deep-dive into [Topic] ([Link])
